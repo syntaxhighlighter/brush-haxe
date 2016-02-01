@@ -1,5 +1,5 @@
 {
-  "name": "brush-haxe",
+  "name": "@alexgorbatchev/brush-haxe",
   "version": "4.0.0",
   "description": "haxe brush module for SyntaxHighlighter.",
   "keywords": [
