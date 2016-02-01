@@ -2,11 +2,11 @@
 
 HAXE brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-haxe.svg)](https://travis-ci.org/alexgorbatchev/brush-haxe)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-haxe.svg)](https://travis-ci.org/syntaxhighlighter/brush-haxe)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-haxe
+    npm install @alexgorbatchev/brush-haxe
 
 ## Testing
 
